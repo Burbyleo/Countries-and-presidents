@@ -1,2 +1,2 @@
 # Countries-and-presidents
-Simple backend written in Java
+Simple 3 layer application (currently only backend) written in Java. We have a database consisting of 3 columns, country, population, and president. First, of all, a country is added which has some citizens, and the president is chosen from them. Everything works through HTTP methods. The application does not contain a frontend and was tested through the postman application.
